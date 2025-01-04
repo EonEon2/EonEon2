@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2&height=200&text=EonEon's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div><h1>📚 STACKS</h1></div>
 
 <div align=center> 
   <!-- 언어 (Programming Languages) -->
@@ -52,28 +52,29 @@
   <br>
 </div>
 
-## 📝 Blog
-[My Blog](https://velog.io/@eoneon2/posts)
+<h1>📝 Blog</h1>
+<a href="https://velog.io/@eoneon2/posts" target="_blank">EonEon Blog</a>
 
 ## 📂 Projects
-- [Project 1](https://github.com/yourusername/project1)
-- [Project 2](https://github.com/yourusername/project2)
-- [Project 3](https://github.com/yourusername/project3)
+[🍪 eSnack24-org](https://github.com/eSnack24) : 웹 기반의 벡터 이미지 검색을 활용한 사용자 알레르기 경고 서비스.  
+  
 
 ## 💻 Coding Tests
-### 백준
-[백준 온라인 저지](https://www.acmicpc.net/user/yourID)
+### Baekjoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duqdjs123)](https://solved.ac/duqdjs123/)
 
-### 프로그래머스
-[프로그래머스](https://programmers.co.kr/profile/yourID)
-
-## 🗣️ GitHub Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 ## 🎓 Education
-- **University Name** – [Degree, Major] (Year - Year)
-- **Course or Bootcamp** – (Year)
+| 제목                        | 기간                                | 비고                                                                 |
+|-----------------------------|-------------------------------------|:----------------------------------------------------------------------:|
+| 신세계 I&C 스파로스 아카데미 KDT 6기 |  2024.07.01 ~ 2024.12.24  |              .                                                        |
+| 부산 동아대학교              | 2023.02 졸업                     | 주전공: 수학과, 복수전공: 컴퓨터공학과                                |
+| 김해 영운고                  | 2017.02 졸업                     |               .                                                       |
 
 ## 🎖️ Certifications
-- **Certificate Name** – Issued by (Year)
-- **Certificate Name** – Issued by (Year)
+
+| 자격증 이름           | 취득 일자     | 비고      |
+|----------------------|--------------|-----------|
+| **정보처리기사**      | 2023.09.01   |           |
+| **SQLD**             | 2023.11.18   |           |
+| **TOEIC Speaking**   | 2024.03.31   | IH        |
