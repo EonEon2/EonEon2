@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=EonEon's%20GITHUB&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=EonEon's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
