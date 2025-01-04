@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2&height=200&text=EonEon GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2&height=200&text=EonEon_GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 ## 📚 STACKS
 
