@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2&height=200&text=EonEon's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
-<div><h1>📚 STACKS</h1></div>
+## 📚 STACKS
 
 <div align=center> 
   <!-- 언어 (Programming Languages) -->
