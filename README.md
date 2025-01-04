@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2&height=200&text=EonEon's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 ## 📝 Blog
-[My Blog](https://your-blog-link.com)
+[My Blog]([https://your-blog-link.com](https://velog.io/@eoneon2/posts))
 
 ## 📂 Projects
 - [Project 1](https://github.com/yourusername/project1)
